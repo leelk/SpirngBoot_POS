@@ -7,7 +7,7 @@
     <groupId>lk.ijse.dep</groupId>
     <artifactId>maven-spring-jpa</artifactId>
     <version>1.0.0</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
 
     <description>This is a MAVEN+SPRING+JPA Layered POS System</description>
 
